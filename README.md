@@ -4,7 +4,8 @@
 
 ## Clash Verge
 
-https://github.com/clash-verge-rev/clash-verge-rev
+项目地址：https://github.com/clash-verge-rev/clash-verge-rev
+
 最新版本下载：[下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/latest)
 
 ## 魔戒VPN
